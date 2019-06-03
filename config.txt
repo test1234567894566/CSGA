@@ -1,5 +1,5 @@
 owner=585240527394570250
-prefix= 1play
+prefix=1
 game= 1play |  gg-craft
 stayinchannel=true
 songinstatus=false
